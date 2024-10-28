@@ -36,12 +36,9 @@ class tripletfamily {
 class Solution {
   public boolean findTriplet(int[] arr) {
     int n = arr.length;
-
-    // Iterate through all possible triplets
     for (int i = 0; i < n - 2; i++) {
       for (int j = i + 1; j < n - 1; j++) {
         for (int k = j + 1; k < n; k++) {
-          // Check if the sum of any two equals the third element
           if (arr[i] + arr[j] == arr[k] || arr[i] + arr[k] == arr[j] || arr[j] + arr[k] == arr[i]) {
             return true;
           }
