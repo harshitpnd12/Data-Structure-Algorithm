@@ -1,0 +1,626 @@
+# Graph Basics Notes for DSA (Java)
+
+## 1. What is a Graph?
+
+A Graph is a non-linear data structure consisting of:
+
+* **Vertices (Nodes)** → Represent entities.
+* **Edges** → Represent connections between vertices.
+
+Example:
+
+```text
+    A
+   / \
+  B---C
+```
+
+Vertices = {A, B, C}
+
+Edges = {(A,B), (A,C), (B,C)}
+
+---
+
+## 2. Terminology
+
+### Vertex (Node)
+
+A point in a graph.
+
+```text
+A, B, C, D
+```
+
+### Edge
+
+Connection between two vertices.
+
+```text
+A ----- B
+```
+
+### Degree
+
+Number of edges connected to a node.
+
+```text
+A -- B -- C
+|
+D
+```
+
+Degree(A) = 2
+
+Degree(B) = 2
+
+Degree(C) = 1
+
+Degree(D) = 1
+
+---
+
+## 3. Types of Graphs
+
+### A. Undirected Graph
+
+Edges have no direction.
+
+```text
+A ----- B
+```
+
+A can reach B and B can reach A.
+
+---
+
+### B. Directed Graph (Digraph)
+
+Edges have direction.
+
+```text
+A ----> B
+```
+
+A can reach B but B cannot reach A.
+
+---
+
+### C. Weighted Graph
+
+Edges have weights.
+
+```text
+A --5-- B
+```
+
+Weight = 5
+
+Used in shortest path problems.
+
+---
+
+### D. Unweighted Graph
+
+No weights.
+
+```text
+A ----- B
+```
+
+---
+
+### E. Cyclic Graph
+
+Contains a cycle.
+
+```text
+A --- B
+|     |
+D --- C
+```
+
+Cycle exists.
+
+---
+
+### F. Acyclic Graph
+
+No cycle exists.
+
+```text
+A
+|
+B
+|
+C
+```
+
+---
+
+### G. Connected Graph
+
+Every node can be reached.
+
+```text
+A --- B --- C
+```
+
+---
+
+### H. Disconnected Graph
+
+Some nodes cannot be reached.
+
+```text
+A --- B
+
+C --- D
+```
+
+---
+
+## 4. Graph Representation
+
+### A. Adjacency Matrix
+
+```text
+    0 1 2
+0   0 1 1
+1   1 0 1
+2   1 1 0
+```
+
+### Java
+
+```java
+int[][] graph = {
+    {0,1,1},
+    {1,0,1},
+    {1,1,0}
+};
+```
+
+### Complexity
+
+| Operation  | Complexity |
+| ---------- | ---------- |
+| Add Edge   | O(1)       |
+| Check Edge | O(1)       |
+| Space      | O(V²)      |
+
+---
+
+### B. Adjacency List
+
+Most important representation.
+
+```text
+0 -> 1,2
+1 -> 0,2
+2 -> 0,1
+```
+
+### Java
+
+```java
+ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
+
+int n = 3;
+
+for(int i=0;i<n;i++){
+    graph.add(new ArrayList<>());
+}
+
+graph.get(0).add(1);
+graph.get(0).add(2);
+
+graph.get(1).add(0);
+graph.get(1).add(2);
+
+graph.get(2).add(0);
+graph.get(2).add(1);
+```
+
+### Complexity
+
+| Operation | Complexity |
+| --------- | ---------- |
+| Add Edge  | O(1)       |
+| Space     | O(V + E)   |
+
+---
+
+## 5. Traversal Techniques
+
+### 1. BFS (Breadth First Search)
+
+Uses Queue.
+
+Visits nodes level by level.
+
+```text
+    0
+   / \
+  1   2
+ / \
+3   4
+```
+
+BFS:
+
+```text
+0 1 2 3 4
+```
+
+### Java
+
+```java
+import java.util.*;
+
+public class BFS {
+
+    static void bfs(ArrayList<ArrayList<Integer>> graph, int start) {
+
+        boolean[] visited = new boolean[graph.size()];
+        Queue<Integer> q = new LinkedList<>();
+
+        q.offer(start);
+        visited[start] = true;
+
+        while(!q.isEmpty()) {
+
+            int node = q.poll();
+
+            System.out.print(node + " ");
+
+            for(int neigh : graph.get(node)) {
+
+                if(!visited[neigh]) {
+
+                    visited[neigh] = true;
+                    q.offer(neigh);
+                }
+            }
+        }
+    }
+}
+```
+
+### Complexity
+
+```text
+Time = O(V + E)
+Space = O(V)
+```
+
+---
+
+## 6. DFS (Depth First Search)
+
+Uses Recursion or Stack.
+
+### Example
+
+```text
+0
+|
+1
+|
+2
+|
+3
+```
+
+DFS:
+
+```text
+0 1 2 3
+```
+
+### Java
+
+```java
+import java.util.*;
+
+public class DFS {
+
+    static void dfs(int node,
+                    ArrayList<ArrayList<Integer>> graph,
+                    boolean[] visited) {
+
+        visited[node] = true;
+
+        System.out.print(node + " ");
+
+        for(int neigh : graph.get(node)) {
+
+            if(!visited[neigh]) {
+
+                dfs(neigh, graph, visited);
+            }
+        }
+    }
+}
+```
+
+### Complexity
+
+```text
+Time = O(V + E)
+Space = O(V)
+```
+
+---
+
+## 7. BFS vs DFS
+
+| Feature        | BFS           | DFS             |
+| -------------- | ------------- | --------------- |
+| Data Structure | Queue         | Stack/Recursion |
+| Path           | Shortest Path | Not Guaranteed  |
+| Memory         | More          | Less            |
+| Level Order    | Yes           | No              |
+| Complexity     | O(V+E)        | O(V+E)          |
+
+---
+
+## 8. Cycle Detection
+
+### Undirected Graph
+
+Using:
+
+* BFS
+* DFS
+* Disjoint Set (Union Find)
+
+---
+
+### Directed Graph
+
+Using:
+
+* DFS + Path Visited Array
+* Kahn's Algorithm
+
+---
+
+## 9. Connected Components
+
+A connected component is a group of connected vertices.
+
+```text
+0 --- 1
+
+2 --- 3
+```
+
+Components = 2
+
+### Logic
+
+Run DFS/BFS from every unvisited node.
+
+---
+
+## 10. Bipartite Graph
+
+Can be colored using 2 colors.
+
+No adjacent nodes have same color.
+
+```text
+A --- B
+|     |
+D --- C
+```
+
+Bipartite.
+
+### Methods
+
+* BFS Coloring
+* DFS Coloring
+
+---
+
+## 11. Topological Sort
+
+Applicable only for DAG.
+
+(Directed Acyclic Graph)
+
+Order where parent appears before child.
+
+Example:
+
+```text
+5 → 2
+5 → 0
+4 → 0
+4 → 1
+2 → 3
+3 → 1
+```
+
+Possible Answer:
+
+```text
+5 4 2 3 1 0
+```
+
+### Methods
+
+1. DFS
+2. Kahn's Algorithm (BFS)
+
+---
+
+## 12. Shortest Path Algorithms
+
+### Unweighted Graph
+
+Use BFS
+
+```text
+O(V+E)
+```
+
+---
+
+### Weighted Graph
+
+#### Dijkstra
+
+For positive weights.
+
+```text
+O(E log V)
+```
+
+---
+
+#### Bellman Ford
+
+Negative weights allowed.
+
+```text
+O(V * E)
+```
+
+---
+
+#### Floyd Warshall
+
+All pairs shortest path.
+
+```text
+O(V³)
+```
+
+---
+
+## 13. Minimum Spanning Tree (MST)
+
+Tree connecting all vertices with minimum cost.
+
+### Algorithms
+
+#### Prim's Algorithm
+
+Priority Queue
+
+```text
+O(E log V)
+```
+
+---
+
+#### Kruskal's Algorithm
+
+Uses Union Find.
+
+```text
+O(E log E)
+```
+
+---
+
+## 14. Disjoint Set Union (Union Find)
+
+Used for:
+
+* Cycle Detection
+* Kruskal
+* Dynamic Connectivity
+
+### Operations
+
+#### Find Parent
+
+```java
+static int find(int x) {
+
+    if(parent[x] == x)
+        return x;
+
+    return parent[x] = find(parent[x]);
+}
+```
+
+### Union
+
+```java
+static void union(int a, int b) {
+
+    int pa = find(a);
+    int pb = find(b);
+
+    if(pa != pb)
+        parent[pa] = pb;
+}
+```
+
+---
+
+## 15. Important Graph Problems
+
+### Beginner
+
+1. BFS Traversal
+2. DFS Traversal
+3. Number of Provinces
+4. Flood Fill
+5. Rotten Oranges
+6. Number of Islands
+7. Surrounded Regions
+8. Bipartite Graph
+
+---
+
+### Intermediate
+
+9. Cycle Detection Undirected BFS
+10. Cycle Detection DFS
+11. Topological Sort
+12. Course Schedule
+13. Alien Dictionary
+14. Dijkstra
+15. Shortest Path DAG
+
+---
+
+### Advanced
+
+16. Bellman Ford
+17. Floyd Warshall
+18. Prim's MST
+19. Kruskal MST
+20. Tarjan Algorithm
+21. Kosaraju Algorithm
+22. Articulation Point
+23. Bridges in Graph
+24. Strongly Connected Components
+
+---
+
+# Graph DSA Roadmap
+
+1. Graph Representation
+2. BFS
+3. DFS
+4. Connected Components
+5. Number of Islands
+6. Cycle Detection
+7. Bipartite Graph
+8. Topological Sort
+9. Shortest Path (BFS)
+10. Dijkstra
+11. Bellman Ford
+12. Floyd Warshall
+13. MST (Prim + Kruskal)
+14. Disjoint Set
+15. SCC (Kosaraju/Tarjan)
+16. Bridges & Articulation Points
+
+Master BFS, DFS, Cycle Detection, Bipartite Graph, Topological Sort, Dijkstra, and Disjoint Set first—these form the foundation for most graph interview questions.
