@@ -16,12 +16,12 @@ class NumberOfProvinces {
         int count = 0;
         for (int i = 0; i < m; i++) {
             if (!vis[i]) {
-                bfs(adj, vis, i);
+                dfs(adj, vis, i);
+                // bfs(adj, vis, i);
                 count++;
             }
         }
         return count;
-
     }
 
     private static void bfs(int[][] arr, boolean[] vis, int i) {
@@ -35,6 +35,16 @@ class NumberOfProvinces {
                     q.add(j);
                     vis[j] = true;
                 }
+            }
+        }
+    }
+
+    private static void dfs(int[][] arr, boolean[] vis, int i) {
+        int n = vis.length;
+        vis[i] = true;
+        for (int j = 0; j < n; j++) {
+            if (arr[i][j] == 1 && vis[j] == false) {
+                dfs(arr, vis, j);
             }
         }
     }
