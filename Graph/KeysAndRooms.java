@@ -16,7 +16,8 @@ public class KeysAndRooms {
     public static boolean canVisitAllRooms(List<List<Integer>> rooms) {
         boolean[] vis = new boolean[rooms.size()];
         vis[0] = true;
-        bfs(rooms, 0, vis);
+        dfs(rooms, 0, vis);
+        // bfs(rooms, 0, vis);
         for (int i = 0; i < vis.length; i++) {
             if (!vis[i]) {
                 return false;
@@ -24,6 +25,15 @@ public class KeysAndRooms {
 
         }
         return true;
+    }
+
+    private static void dfs(List<List<Integer>> rooms, int i, boolean[] vis) {
+        vis[i] = true;
+        for (int ele : rooms.get(i)) {
+            if (!vis[ele]) {
+                dfs(rooms, ele, vis);
+            }
+        }
     }
 
     private static void bfs(List<List<Integer>> rooms, int start, boolean[] vis) {
