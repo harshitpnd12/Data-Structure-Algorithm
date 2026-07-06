@@ -35,6 +35,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [0733-flood-fill](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
+| [1288-remove-covered-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -99,4 +100,8 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [0733-flood-fill](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
