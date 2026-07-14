@@ -40,6 +40,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [1301-number-of-paths-with-max-score](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -50,6 +51,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -108,10 +110,15 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
