@@ -36,6 +36,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+| [0682-baseball-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [1288-remove-covered-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1301-number-of-paths-with-max-score) |
@@ -143,6 +144,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -152,4 +154,8 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
