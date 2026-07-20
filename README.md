@@ -28,6 +28,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3582-generate-tag-for-video-caption](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3582-generate-tag-for-video-caption) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -151,6 +152,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [0682-baseball-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1260-shift-2d-grid) |
+| [3582-generate-tag-for-video-caption](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3582-generate-tag-for-video-caption) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
