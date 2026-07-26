@@ -39,6 +39,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1260-shift-2d-grid) |
@@ -120,12 +121,14 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3312-sorted-gcd-pair-queries) |
