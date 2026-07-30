@@ -29,6 +29,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -138,6 +139,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -191,6 +193,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
