@@ -43,6 +43,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
@@ -68,6 +69,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3620-network-recovery-pathways) |
@@ -136,6 +138,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -212,4 +215,12 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
