@@ -92,6 +92,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -117,6 +118,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -132,6 +134,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [0733-flood-fill](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
 | ------- |
