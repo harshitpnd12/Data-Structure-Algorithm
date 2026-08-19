@@ -22,6 +22,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3312-sorted-gcd-pair-queries) |
@@ -60,6 +61,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [1260-shift-2d-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1301-number-of-paths-with-max-score) |
+| [1386-cinema-seat-allocation](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -223,6 +225,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -239,6 +242,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
