@@ -21,6 +21,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -54,6 +55,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
