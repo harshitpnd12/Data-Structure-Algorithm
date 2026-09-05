@@ -62,6 +62,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
+| [0845-longest-mountain-in-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
@@ -98,6 +99,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0486-predict-the-winner) |
+| [0845-longest-mountain-in-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1406-stone-game-iii) |
@@ -217,6 +219,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## Two Pointers
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0845-longest-mountain-in-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -260,6 +263,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3514-number-of-unique-xor-triplets-ii) |
