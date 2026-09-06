@@ -35,6 +35,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1927-sum-game) |
@@ -98,6 +99,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0486-predict-the-winner) |
 | [0845-longest-mountain-in-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0877-stone-game) |
