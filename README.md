@@ -167,6 +167,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3310-remove-methods-from-project) |
 ## Sorting
@@ -300,4 +301,12 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
