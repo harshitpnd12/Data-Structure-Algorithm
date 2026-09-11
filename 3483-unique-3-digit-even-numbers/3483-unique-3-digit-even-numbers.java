@@ -1,19 +1,29 @@
 class Solution {
-    public int totalNumbers(int[] arr) {
-        Set<Integer> set=new HashSet<>();
-        int n=arr.length;
-        for(int i=0;i<n;i++){
-            if (arr[i] == 0) continue;
-            for(int j=0;j<n;j++){
-                if(i==j) continue;
-                for(int k=0;k<n;k++){
-                    if(i==k || k==j) continue;
-                    if (arr[k] % 2 != 0) continue;
-                    int num=arr[i]*100+arr[j]*10+arr[k];
-                    set.add(num);
+    public int totalNumbers(int[] digits) {
+        boolean[] used = new boolean[1000];
+        int count = 0;
+
+        for (int i = 0; i < digits.length; i++) {
+            if (digits[i] == 0) continue;
+
+            for (int j = 0; j < digits.length; j++) {
+                if (j == i) continue;
+
+                for (int k = 0; k < digits.length; k++) {
+                    if (k == i || k == j) continue;
+
+                    if (digits[k] % 2 != 0) continue;
+
+                    int num = digits[i] * 100 + digits[j] * 10 + digits[k];
+
+                    if (!used[num]) {
+                        used[num] = true;
+                        count++;
+                    }
                 }
             }
         }
-        return set.size();
+
+        return count;
     }
 }
