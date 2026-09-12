@@ -82,6 +82,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -111,6 +112,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [1406-stone-game-iii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -118,6 +120,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -178,6 +181,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3731-find-missing-elements) |
