@@ -193,6 +193,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [0486-predict-the-winner](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1406-stone-game-iii) |
@@ -319,4 +320,8 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
