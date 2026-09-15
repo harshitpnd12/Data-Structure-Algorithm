@@ -41,6 +41,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -111,6 +112,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [0940-distinct-subsequences-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1406-stone-game-iii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -236,6 +238,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0845-longest-mountain-in-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -269,6 +272,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [1386-cinema-seat-allocation](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3348-smallest-divisible-digit-product-ii) |
