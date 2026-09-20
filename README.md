@@ -47,6 +47,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -254,6 +255,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 | ------- |
 | [0682-baseball-game](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3582-generate-tag-for-video-caption) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/3925-concatenate-array-with-reverse) |
