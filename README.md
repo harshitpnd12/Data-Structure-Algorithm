@@ -341,4 +341,5 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1795-rearrange-products-table](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1795-rearrange-products-table) |
 <!---LeetCode Topics End-->
