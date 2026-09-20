@@ -337,4 +337,8 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/harshitpnd12/Data-Structure-Algorithm/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
